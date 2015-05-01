@@ -15,7 +15,7 @@ gem 'activesupport', '4.2.1'
 gem 'ember-cli-rails'
 
 group :development, :test do
-  gem 'rspec-rails'
+  gem 'rspec-rails', '~> 3.0'
   gem 'pry-rails'
 end
 
